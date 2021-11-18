@@ -5,4 +5,4 @@ body {
     background-size: cover;
 }
 </style>
-<center><h1 style="font-size:900%;">Food Available For Pickup</center>
+<center><h1 style="font-size:700%;">Food Available For Pickup</center>
