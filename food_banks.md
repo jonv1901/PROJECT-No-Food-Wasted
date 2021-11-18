@@ -1,3 +1,3 @@
 # Food Bank Geolocator
 
-![Food Banks in NYC](map.png)
+![Food Banks in NYC](images/map.png)
