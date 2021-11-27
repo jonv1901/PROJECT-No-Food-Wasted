@@ -5,7 +5,5 @@ body {
   background-size: cover;
 }
 </style>
-<center><h1 style="font-size:900%;">NO</h1></center>
-<center><h1 style="font-size:900%;">FOOD WASTED</h1></center>
-
-
+<center><h1 style="font-size:700%;">NO</h1></center>
+<center><h1 style="font-size:700%;">FOOD WASTED</h1></center>
