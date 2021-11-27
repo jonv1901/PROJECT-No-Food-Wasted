@@ -7,7 +7,7 @@ Enter Password:
 
 <input type="text" id="name" name="name"/>
 
-Re-enter Password
+Re-enter Password:
 
 <input type="text" id="name" name="name"/>
 
