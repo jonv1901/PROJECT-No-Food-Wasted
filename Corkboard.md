@@ -8,6 +8,6 @@ body {
 
 <center><h1 style="font-size:900%;">Food Available For Pickup</center>
 
-![postit](images/sticky.png)
-![postit](images/sticky.png)
-![postit](images/sticky.png)
+<img style="margin-left:150px" src="images/sticky.png" width="300px" height="300px" />
+<img src="images/sticky.png" width="300px" height="300px">
+<img src="images/sticky.png" width="300px" height="300px">
