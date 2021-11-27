@@ -6,7 +6,7 @@ body {
 }
 </style>
 
-<center><h1 style="font-size:900%;">Food Available For Pickup</center>
+<center><h1 style="font-size:500%;">Food Available For Pickup</h1></center>
 
 <img style="margin-left:150px" src="images/sticky.png" width="300px" height="300px" />
 <img src="images/sticky.png" width="300px" height="300px">
