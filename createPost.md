@@ -1,9 +1,13 @@
-#  **Sign In**
-Enter Username:
+#  **create post**
+post name or restaurant name:
 
  <input type="text" id="name" name="name"/>
 
- Enter Password:
+ pickup adress:
+
+<input type="text" id="name" name="name"/>
+
+description:
 
 <input type="text" id="name" name="name"/>
 
