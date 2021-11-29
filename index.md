@@ -7,6 +7,3 @@ body {
 </style>
 <center><h1 style="font-size:700%;">NO</h1></center>
 <center><h1 style="font-size:700%;">FOOD WASTED</h1></center>
-# Our mission:
-
-*World hunger has been a serious problem in many countries and states throughout the world, and as time continues the problem has only continued to develop. We at Project Don’t Waste Food are here to aid in the elimination of World Hunger by feeding those without food one step at a time. We’re here to attempt to save as many lives as possible and to make as many people’s lives easier as possible. Our project is all about targeting the local restaurants and informing them on the closest food bank where they can donate the leftover food from the night instead of throwing it away, and we’re starting in New York City. Restaurants throw away and dump tons of good food at the end of the night when it doesn’t sell or they have prepared too much. Our goal is to get that food in the hands of the hungry homeless people instead of the dump.*
