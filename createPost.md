@@ -1,9 +1,9 @@
-#  **Sign In**
-Enter Username:
+#  **Create Post**
+Enter Location:
 
  <input type="text" id="name" name="name"/>
 
- Enter Password:
+ Enter Time:
 
 <input type="text" id="name" name="name"/>
 
