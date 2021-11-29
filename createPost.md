@@ -7,7 +7,7 @@ post name or restaurant name:
 
 <input type="text" id="name" name="name"/>
 
-description:
+Description:
 
 <input type="text" id="name" name="name"/>
 
