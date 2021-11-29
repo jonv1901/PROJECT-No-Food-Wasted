@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    box-sizing: border-box;
+    border: 10px solid transparent;
+    background-image: url(../images/corkboard.png);
+    border-image: url(../images/border.png) 15;
+}
+
+h1 { margin-top: 45px; }
+
+.post {
+    width: 256px;
+    height: 256px;
+    background-image: url('../images/sticky.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.post p {
+    margin: 35px;
+    font-size: 28px;
+}
+
+.post p:nth-child(2) {
+    margin: 30px;
+    font-size: 18px;
+    width: 180px;
+    word-wrap: break-word;
+}
+
+#posts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
