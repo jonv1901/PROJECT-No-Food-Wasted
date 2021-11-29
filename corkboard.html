@@ -44,8 +44,8 @@
             description.innerHTML = params.get('postDesc');
 
             const button = document.createElement('button');
-            button.innerHTML = 'Post';
-            button.onclick = "window.location.href='food_banks'";
+            button.innerHTML = 'Claim';
+            button.onclick = () => { window.location.href = 'food_banks' };
 
             postContainer.appendChild(title);
             postContainer.appendChild(description);
